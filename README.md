@@ -1,78 +1,48 @@
 # Aegis
 
-Aegis is a collection of custom Roblox scripts and automation tools created for game development, testing, and other authorized development purposes.
+Aegis is a collection of custom Roblox scripts and automation tools.
 
-## Intended Use
+## About
 
-Aegis is intended to be used for legitimate development, testing, automation, debugging, and other activities performed in games, experiences, or environments that you own or have permission to work with.
+Aegis was created to provide users with customizable automation and scripting functionality for Roblox.
 
-Aegis is designed as a general-purpose development and automation tool. Some functionality may technically be capable of being adapted or used in environments other than those for which it was originally created.
+The software may be capable of interacting with different games and environments depending on how it is configured or modified.
 
-The existence of such functionality does not grant permission to use Aegis against a third-party game, experience, account, server, service, or system.
+Users are responsible for ensuring that their use of Aegis is permitted within the game, experience, service, or environment in which it is used.
 
 ## User Responsibility
 
-Users are responsible for determining whether they have permission to use Aegis in a particular environment.
+By using Aegis, you are responsible for your own actions and for determining whether you have permission to use the software in a particular environment.
 
-Users are also responsible for complying with applicable laws, Roblox policies, game-specific rules, and any other terms or restrictions applicable to their use of the software.
+The creator does not grant permission to access, modify, automate, interfere with, or otherwise interact with any third-party game, experience, account, server, service, or system without authorization.
 
-The creator of Aegis does not authorize users to access, modify, automate, exploit, interfere with, or otherwise interact with third-party games or services without appropriate permission.
+The creator does not authorize or endorse unauthorized, malicious, unlawful, or abusive use of Aegis.
 
-## Unauthorized Use
+The fact that Aegis may technically be capable of performing a particular action does not constitute permission to perform that action.
 
-Aegis is not created or distributed for the purpose of enabling unauthorized access, exploitation, cheating, disruption, or interference with third-party games or services.
+## Third-Party Games
 
-The creator does not authorize, direct, encourage, or endorse such use.
+Aegis is an independent project and is not affiliated with, endorsed by, sponsored by, or officially associated with Roblox Corporation or any individual Roblox experience unless explicitly stated otherwise.
 
-If a user independently modifies, adapts, configures, or deploys Aegis for an unauthorized purpose, that use is outside the intended and authorized use of the software and is the responsibility of that user.
-
-## Game-Specific Concerns
-
-If Aegis or a modification of Aegis is being used in a way that is materially affecting a game, experience, service, or development project, the affected owner or developer may request that the relevant functionality or distribution be reviewed.
-
-Requests may include:
-
-- A description of the affected game or experience.
-- A description of how Aegis is allegedly being used.
-- Relevant evidence or examples.
-- Links to the relevant Aegis release, repository, fork, or distribution.
-- Any specific concerns regarding unauthorized automation, exploitation, or disruption.
-
-Requests will be reviewed on a case-by-case basis.
-
-Where appropriate, the creator may remove, restrict, modify, disable, or discontinue distribution of functionality that is determined to be creating a significant issue or being materially misused.
-
-Submitting a request does not guarantee removal or modification.
+Users are responsible for complying with the rules, policies, and terms applicable to any third-party game or service in which Aegis is used.
 
 ## Misuse Reports
 
-Reports concerning unauthorized or malicious use of Aegis are welcome.
+If Aegis is being used in a manner that is materially affecting a game, experience, service, or development project, the affected developer or owner may request that the relevant functionality or distribution be reviewed.
 
-A report should provide enough information to identify the relevant software, functionality, game, or use case.
+Requests should include reasonable information about the affected project, the functionality involved, and how Aegis is allegedly being used.
 
-The creator may use information provided in a report to investigate the issue and determine whether changes to Aegis or its distribution are appropriate.
+Requests are reviewed on a case-by-case basis.
 
-The creator does not guarantee that every report will result in removal, modification, or other action.
+The creator may, where appropriate, remove, restrict, modify, disable, or discontinue affected functionality or distribution.
 
-## No Authorization of Misuse
-
-Providing, publishing, documenting, or distributing Aegis does not constitute permission to use it against any particular third-party game, experience, account, server, service, or system.
-
-The creator does not authorize or endorse the use of Aegis for activity that the user is otherwise not permitted to perform.
-
-Documentation, examples, demonstrations, and descriptions of functionality are provided for legitimate development purposes and should not be interpreted as instructions or authorization to misuse the software.
-
-## Roblox
-
-Aegis is an independent project and is not affiliated with, endorsed by, or sponsored by Roblox Corporation unless explicitly stated otherwise.
-
-Users are responsible for complying with Roblox's applicable rules, policies, and terms when using Aegis.
+Submitting a request does not guarantee that Aegis or any particular functionality will be removed.
 
 ## Ownership
 
-Aegis and its original source code, implementations, documentation, and associated materials are proprietary.
+Aegis, including its original source code, scripts, implementations, documentation, and associated materials, is proprietary software.
 
-Accessing or downloading Aegis does not transfer ownership or grant rights beyond those expressly provided by the accompanying license.
+Accessing, downloading, or using Aegis does not transfer ownership or grant rights beyond those expressly provided by the applicable license.
 
 ## License
 
@@ -82,10 +52,10 @@ See [`LICENSE.md`](LICENSE.md) for the complete terms governing the use, modific
 
 ## Disclaimer
 
-Aegis is provided on an "AS IS" and "AS AVAILABLE" basis to the maximum extent permitted by applicable law.
+Aegis is provided "AS IS" and "AS AVAILABLE" to the maximum extent permitted by applicable law.
 
-The creator does not guarantee that Aegis will be error-free, uninterrupted, secure, or suitable for a particular purpose.
+The creator does not guarantee that Aegis will be error-free, uninterrupted, secure, compatible with any particular version of Roblox, or suitable for any particular purpose.
 
-Nothing in this repository should be interpreted as legal advice or as authorization to use Aegis in any particular third-party environment.
+The creator is not responsible for actions independently taken by users or third parties through their use of the software, except to the extent liability cannot legally be excluded.
 
 Copyright © 2026 Aegis. All Rights Reserved.
