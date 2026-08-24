@@ -1,177 +1,129 @@
 # Aegis Proprietary Software License
 
-Copyright © 2026 Aegis / [YOUR LEGAL NAME OR COMPANY NAME]
+Copyright © 2026 Aegis. All Rights Reserved.
 
-All Rights Reserved.
+## 1. About Aegis
 
-## 1. Definitions
+Aegis is software created for Roblox development, automation, testing, and related legitimate development purposes.
 
-For purposes of this License:
-
-**"Software"** means Aegis and all source code, scripts, files, documentation, implementations, components, and other materials distributed as part of Aegis by the copyright holder.
-
-**"Copyright Holder"** means the person or entity identified in the copyright notice above.
-
-**"You"** or **"User"** means any person or entity accessing, obtaining, copying, executing, or otherwise interacting with the Software.
-
-**"Derivative Work"** means a modified, adapted, translated, ported, rewritten, extended, or otherwise altered version of the Software or a work incorporating a substantial portion of the Software, to the extent such a work is protected as a derivative work under applicable law.
-
-**"Authorized Use"** means use of the Software that is expressly permitted by this License and otherwise performed with all permissions required by the relevant game, service, system, platform, or owner.
+The software is designed to automate tasks and assist developers with their own projects and authorized testing environments.
 
 ## 2. Ownership
 
-The Software is proprietary software.
+Aegis and its original source code, scripts, implementations, documentation, and associated materials are proprietary to the copyright holder.
 
-The Copyright Holder retains all right, title, and interest in and to the Software, including all copyright and other intellectual property rights owned by the Copyright Holder.
+No ownership of Aegis is transferred to any user by downloading, accessing, possessing, or using the software.
 
-This License does not transfer ownership of the Software to You.
+All rights not expressly granted by this License are reserved.
 
-Except for the limited rights expressly granted by this License, all rights are reserved by the Copyright Holder.
+## 3. Permission to Use
 
-## 3. Limited License
+Subject to this License, You are granted a limited, non-exclusive, non-transferable, non-sublicensable license to use Aegis for legitimate and authorized purposes.
 
-Subject to continued compliance with this License, the Copyright Holder grants You a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Software solely for Authorized Use.
+This includes development, testing, automation, debugging, and other activities performed on games, experiences, systems, or environments that You own or have permission to work with.
 
-No other license or permission is granted, whether express, implied, by estoppel, or otherwise.
+## 4. User Responsibility
 
-## 4. Authorized Development and Testing
+You are solely responsible for determining whether You are authorized to use Aegis in a particular environment.
 
-The Software may be used for legitimate development, testing, debugging, and other authorized activities involving Roblox experiences or other environments for which You have the necessary permission.
+The availability of Aegis does not grant You permission to access, modify, automate, test, interfere with, or interact with any third-party game, experience, account, server, service, or system.
 
-You are solely responsible for obtaining and maintaining any permissions required from the relevant owner or operator.
+You are responsible for complying with all applicable laws, platform rules, service terms, and permissions relevant to Your use of the software.
 
-Access to or possession of the Software does not itself constitute authorization to access, modify, test, exploit, interfere with, or interact with any third-party system.
+## 5. Unauthorized and Malicious Use
 
-## 5. Prohibited Activities
+Aegis is not provided or intended as authorization to exploit, attack, disrupt, compromise, or otherwise interfere with third-party games, experiences, accounts, servers, services, or systems without permission.
 
-Except where expressly permitted by this License or required by applicable law, You may not:
+You may not use Aegis for:
 
-1. Use the Software to obtain unauthorized access to any account, server, experience, service, system, or data.
+- Unauthorized access.
+- Exploitation of third-party games or services.
+- Circumvention of security or access controls without authorization.
+- Cheating or unauthorized gameplay automation.
+- Disruption or interference with third-party services.
+- Theft, destruction, or unauthorized manipulation of data.
+- Any unlawful purpose.
 
-2. Use the Software to exploit, attack, compromise, disrupt, damage, interfere with, or impair any third-party system, experience, server, account, or service without authorization.
+The Copyright Holder does not authorize, request, direct, encourage, or endorse such use.
 
-3. Use the Software to bypass, defeat, disable, evade, or circumvent security mechanisms, authentication mechanisms, access controls, anti-cheat systems, moderation systems, or other technical protections without authorization.
+Any unauthorized use of Aegis is outside the scope of the permission granted by this License and is undertaken independently by the User.
 
-4. Use the Software to facilitate cheating, unauthorized exploitation, malicious activity, harassment, disruption, or unlawful activity.
+## 6. No Authorization Through Distribution
 
-5. Use the Software in a manner that violates applicable law or applicable platform or service rules.
+Providing, publishing, or making Aegis available does not constitute authorization to use it against any particular game, experience, account, server, service, or system.
 
-6. Represent that the Copyright Holder authorized an activity when the Copyright Holder has not expressly done so.
+The Copyright Holder's distribution of Aegis should not be interpreted as approval, permission, or instruction to perform activities that the User is otherwise not authorized to perform.
 
-7. Use the Software to impersonate the Copyright Holder or falsely represent a modified or redistributed version as an official version of Aegis.
+## 7. Modification
 
-## 6. Redistribution
+You may not publish, distribute, sell, sublicense, or otherwise provide modified versions, forks, branches, ports, or derivative works of Aegis without prior written permission from the Copyright Holder.
 
-Without prior written permission from the Copyright Holder, You may not:
+You may not represent a modified or derivative version as an official version of Aegis.
 
-- Distribute copies of the Software.
-- Publish the Software or its source code elsewhere.
-- Upload the Software to another repository, website, service, or platform.
-- Sell, rent, lease, sublicense, or otherwise transfer the Software.
-- Provide copies of the Software to third parties for their independent use.
-- Bundle or package the Software with another publicly distributed product where doing so would constitute redistribution of the Software.
+Nothing in this section restricts rights that cannot legally be restricted under applicable law.
 
-## 7. Modification and Derivative Works
+## 8. Redistribution
 
-Without prior written permission from the Copyright Holder, You may not create, publish, distribute, or provide to third parties any modified version or Derivative Work of the Software.
+Without prior written permission, You may not:
 
-This includes, without limitation:
+- Redistribute Aegis.
+- Republish the source code.
+- Upload copies of Aegis to another public repository.
+- Sell or sublicense Aegis.
+- Provide copies to third parties for redistribution.
+- Package Aegis into another publicly distributed product.
+- Remove copyright or license notices.
 
-- Forks.
-- Modified branches.
-- Ports.
-- Rewrites incorporating protected portions of the Software.
-- Repackaged versions.
-- Renamed versions.
-- Versions with functionality added to or removed from the Software.
-- Versions derived from the source code or other protected portions of the Software.
+## 9. Third-Party Services
 
-Nothing in this section is intended to restrict rights that cannot legally be restricted under applicable law.
+Aegis may be capable of interacting with third-party software, platforms, games, or services.
 
-## 8. Source Code
+You are responsible for ensuring that Your use complies with the rules and terms applicable to those services.
 
-The availability of source code does not constitute a grant of permission to copy, modify, redistribute, publish, or create Derivative Works from that source code.
+Aegis is not affiliated with, endorsed by, or sponsored by Roblox Corporation unless explicitly stated otherwise.
 
-Source code may be inspected only to the extent permitted by this License and applicable law.
+Nothing in this License grants permission to violate Roblox's Terms of Use, policies, or the rules of any individual Roblox experience.
 
-## 9. Attribution and Notices
+## 10. No Endorsement of Misuse
 
-You may not remove, obscure, falsify, or alter copyright notices, license notices, ownership notices, or other notices included with the Software.
+The Copyright Holder does not endorse or encourage the use of Aegis for cheating, exploitation, unauthorized access, disruption, or other malicious activity.
 
-You may not falsely claim authorship or ownership of the Software or a protected portion of it.
+Documentation, examples, demonstrations, or descriptions of Aegis's functionality are provided for legitimate development purposes and do not constitute instructions or authorization to misuse the software.
 
-## 10. No Affiliation or Endorsement
+## 11. Disclaimer
 
-Aegis is independent software.
+Aegis is provided "AS IS" and "AS AVAILABLE" to the maximum extent permitted by applicable law.
 
-Unless expressly stated otherwise, the Copyright Holder is not affiliated with, endorsed by, sponsored by, or acting on behalf of Roblox Corporation or any third-party developer, experience, group, service, or organization.
+The Copyright Holder makes no guarantee that Aegis will be error-free, uninterrupted, secure, or suitable for any particular purpose.
 
-## 11. User Responsibility
+The Copyright Holder is not responsible for how a User chooses to deploy or operate the software, except to the extent liability cannot legally be excluded.
 
-You are solely responsible for your use of the Software and for ensuring that your use is authorized and lawful.
+## 12. Limitation of Liability
 
-You are responsible for obtaining any permissions, licenses, consents, or authorizations required for your intended use.
+To the maximum extent permitted by applicable law, the Copyright Holder shall not be liable for damages arising from a User's unauthorized, unlawful, malicious, or prohibited use of Aegis.
 
-The Copyright Holder does not grant permission to access or interfere with third-party systems merely by distributing or making the Software available.
-
-## 12. No Authorization of Third-Party Conduct
-
-The Software is provided for Authorized Use only.
-
-The Copyright Holder does not authorize, direct, request, encourage, assist, or endorse any unauthorized or unlawful activity performed by a User or any third party.
-
-A User's independent misuse of the Software is outside the scope of the license granted by this License.
+Nothing in this License excludes or limits liability that cannot legally be excluded or limited.
 
 ## 13. Termination
 
-This License automatically terminates upon any material breach of its terms.
+Any permission granted under this License terminates immediately if You materially violate its terms.
 
-Upon termination, You must immediately cease all use of the Software and, where legally required, delete or destroy copies of the Software within Your possession or control.
+Upon termination, You must cease using Aegis and, where applicable, delete unauthorized copies within Your possession or control.
 
-Termination does not limit any other rights or remedies available to the Copyright Holder under applicable law.
+Termination does not limit any other rights or remedies available under applicable law.
 
-## 14. Reservation of Rights
+## 14. No Implied Rights
+
+No rights are granted beyond those expressly stated in this License.
+
+The fact that Aegis is publicly accessible, downloadable, or technically capable of performing a particular action does not grant permission to perform that action where You otherwise lack authorization.
+
+## 15. Severability
+
+If any provision of this License is found to be invalid or unenforceable, that provision shall be enforced to the maximum extent permitted by law and the remaining provisions shall remain in effect.
+
+## 16. Reservation of Rights
 
 All rights not expressly granted under this License are reserved by the Copyright Holder.
 
-No permission shall be implied from the Copyright Holder's failure to enforce a particular provision of this License.
-
-A waiver of any provision must be expressly made in writing and applies only to the specific instance for which it is given.
-
-## 15. Disclaimer of Warranties
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
-
-THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, UNINTERRUPTED, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
-
-## 16. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THE SOFTWARE OR ITS USE.
-
-NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED.
-
-## 17. Severability
-
-If any provision of this License is determined to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent permitted by law, and the remaining provisions shall remain in full force and effect.
-
-## 18. Applicable Law
-
-This License shall be interpreted and enforced in accordance with the applicable laws of the jurisdiction in which the Copyright Holder is located, except to the extent that applicable law requires otherwise.
-
-## 19. Entire Agreement
-
-This License constitutes the complete agreement governing the use of the Software unless the Copyright Holder expressly provides additional written terms.
-
-Any additional permission granted by the Copyright Holder must be provided in writing.
-
-## 20. Contact
-
-For licensing inquiries or requests for permission to use, modify, distribute, or otherwise interact with Aegis outside the permissions granted above, contact:
-
-[YOUR CONTACT INFORMATION]
-
----
-
-Copyright © 2026 [YOUR LEGAL NAME OR COMPANY NAME]
-
-All Rights Reserved.
+Copyright © 2026 Aegis. All Rights Reserved.
